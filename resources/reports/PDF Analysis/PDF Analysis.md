@@ -51,7 +51,6 @@ Digital PDF: Yes
 
 Contains:
 - formulas
-- diagram
 
 Expected difficulty: Easy
 
