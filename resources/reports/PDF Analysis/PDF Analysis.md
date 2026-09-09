@@ -37,7 +37,7 @@ Reason: this diagram could be interpreted as LaTeX formula instead of a regular 
 Reason: ambiguous table, there is no clear separation of columns and rows.
 
 
-## Read And Complex Analysis
+## Read and Complex Analysis
 
 [Textbook](../../test/rudin.pdf).
 
@@ -64,7 +64,7 @@ Reason: there is a posibility for illformed LaTeX formula.
 
 Reason: Chapter indication could be interpreted not as intended.
 
-## Grinstead and Snell’s Introduction to Probability
+## Set theory and the continuum hypothesis
 
 [Textbook](../../test/conti.pdf).
 
