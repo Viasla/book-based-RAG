@@ -92,4 +92,41 @@ Reason: table could be extracted incorrectly
 
 ![Page 100](./conti-problem-3.png)
 
+## A First Course in Probability
+
+[Textbook](../../test/a_first_course_in_probability.pdf)
+
+### General Analysis
+
+Pages: 848
+
+Digital PDF: Yes
+
+Contains:
+- formulas
+- diagrams
+- images
+- tables
+
+Expected difficulty: Hard
+
+### Problematic pages
+
+![Page 52](./first-problem-1.png)
+
+Reason: "i = 1" is bigger than usually, in that book.
+
+![Page 79](./first-problem-2.png)
+
+Reason: symbols are misaligned, this could pose a threat to correct formula extraction.
+
+![Page 167](./first-problem-3-1.png)
+![Page 168](./first-problem-3-2.png)
+
+Reason: can be extracted as two distinct tables.
+
+![Page 556](./first-problem-4.png)
+
+Reason: "i -> - infty" could be interpreted incorrectly.
+
 # Conclusion
