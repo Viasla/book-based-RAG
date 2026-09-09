@@ -64,7 +64,7 @@ Reason: there is a posibility for illformed LaTeX formula.
 
 Reason: Chapter indication could be interpreted not as intended.
 
-## Set theory and the continuum hypothesis
+## Set Theory and the Continuum Hypothesis
 
 [Textbook](../../test/conti.pdf).
 
