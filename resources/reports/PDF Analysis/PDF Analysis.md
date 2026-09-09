@@ -130,3 +130,5 @@ Reason: can be extracted as two distinct tables.
 Reason: "i -> - infty" could be interpreted incorrectly.
 
 # Conclusion
+
+Each textbook has different difficulties with data extraction. For instance "A First Course in Probability" does not have consistency across formulas, which were not even created using LaTeX. Other textbooks have consistency, but have different visual presentation, which also could be a problem for general data extraction script.
