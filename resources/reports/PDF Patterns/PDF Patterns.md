@@ -103,6 +103,80 @@ Based on textbook, I conclude, that these patterns are gonna be useful for later
 
 [Textbook](../../test/rudin.pdf).
 
+### Chapters
+
+![Chapter](./rudin/rudin-chapter-1.png)
+![Chapter](./rudin/rudin-chapter-2.png)
+![Chapter](./rudin/rudin-chapter-3.png)
+![Chapter](./rudin/rudin-chapter-4.png)
+![Chapter](./rudin/rudin-chapter-5.png)
+
+### Sections
+
+![Section](./rudin/rudin-section-1.png)
+![Section](./rudin/rudin-section-2.png)
+![Section](./rudin/rudin-section-3.png)
+![Section](./rudin/rudin-section-4.png)
+![Section](./rudin/rudin-section-5.png)
+
+### Examples
+
+![Example](./rudin/rudin-example-1.png)
+
+### Definitions
+
+![Definition](./rudin/rudin-definition-1.png)
+![Definition](./rudin/rudin-definition-2.png)
+![Definition](./rudin/rudin-definition-3.png)
+![Definition](./rudin/rudin-definition-4.png)
+![Definition](./rudin/rudin-definition-5.png)
+
+### Statements
+
+![Lemma](./rudin/rudin-lemma-1.png)
+
+![Corollaries](./rudin/rudin-corollaries-1.png)
+
+![Proposition](./rudin/rudin-proposition-1.png)
+![Proposition](./rudin/rudin-proposition-2.png)
+![Proposition](./rudin/rudin-proposition-3.png)
+
+![Theorem](./rudin/rudin-theorem-1.png)
+![Theorem](./rudin/rudin-theorem-2.png)
+![Theorem](./rudin/rudin-theorem-3.png)
+![Theorem](./rudin/rudin-theorem-4.png)
+![Theorem](./rudin/rudin-theorem-5.png)
+![Theorem](./rudin/rudin-theorem-6.png)
+
+### Proofs
+
+![Proof](./rudin/rudin-proof-1.png)
+![Proof](./rudin/rudin-proof-2.png)
+![Proof](./rudin/rudin-proof-3.png)
+![Proof](./rudin/rudin-proof-4.png)
+![Proof](./rudin/rudin-proof-5.png)
+
+### Exercises
+
+![Exercises](./rudin/rudin-exercise-1.png)
+![Exercises](./rudin/rudin-exercise-2.png)
+![Exercises](./rudin/rudin-exercise-3.png)
+
+### Footnotes
+
+![Footnotes](./rudin/rudin-footnote-1.png)
+
+### Pattern Summary
+
+Based on textbook, I conclude, that these patterns are gonna be useful for later stages of parsing:
+1. Page layout:
+    -  On page, where new chapter starts, has page counter on the bottom of the page. On other pages page counter and title of current chapter located at the top of a page.
+2. Theorems and proofs:
+    - Theorems, Propositions, Lemmas, Corollaries written in italic.
+    - After statement in italic, regular text may appear before proof.
+    - Proof ends with "////".
+3. Book separated on segments which are numbered, section headers just separate them, and do not influence the counter. Only when a new chapther begins, counter resets.
+
 ## Set Theory and the Continuum Hypothesis
 
 [Textbook](../../test/conti.pdf).
