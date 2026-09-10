@@ -37,7 +37,7 @@ Reason: this diagram could be interpreted as LaTeX formula instead of a regular 
 Reason: ambiguous table, there is no clear separation of columns and rows.
 
 
-## Read and Complex Analysis
+## Real and Complex Analysis
 
 [Textbook](../../test/rudin.pdf).
 
