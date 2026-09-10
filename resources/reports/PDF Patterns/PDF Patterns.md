@@ -1,0 +1,112 @@
+# PDF Patterns
+
+This report will contain summarization of all patterns which are present in certain textbooks.
+
+## Grinstead and Snell’s Introduction to Probability
+
+[Textbook](../../test/prob.pdf).
+
+### Contents
+
+![Contents](./prob/prob-content-1.png)
+![Contents](./prob/prob-content-2.png)
+
+### Chapters
+
+![Chapter](./prob/prob-chapter-1.png)
+![Chapter](./prob/prob-chapter-2.png)
+![Chapter](./prob/prob-chapter-3.png)
+![Chapter](./prob/prob-chapter-4.png)
+![Chapter](./prob/prob-chapter-5.png)
+
+### Sections
+
+![Section](./prob/prob-section-1.png)
+![Section](./prob/prob-section-2.png)
+![Section](./prob/prob-section-3.png)
+![Section](./prob/prob-section-4.png)
+![Section](./prob/prob-section-5.png)
+
+### Examples
+
+![Example](./prob/prob-example-1.png)
+![Example](./prob/prob-example-2.png)
+![Example](./prob/prob-example-3.png)
+![Example](./prob/prob-example-4.png)
+![Example](./prob/prob-example-5.png)
+
+### Theorems
+
+![Theorem](./prob/prob-theorem-1.png)
+![Theorem](./prob/prob-theorem-2.png)
+![Theorem](./prob/prob-theorem-3.png)
+![Theorem](./prob/prob-theorem-4.png)
+![Theorem](./prob/prob-theorem-5.png)
+
+### Corollaries
+
+![Corollary](./prob/prob-corollary-1.png)
+![Corollary](./prob/prob-corollary-2.png)
+![Corollary](./prob/prob-corollary-3.png)
+![Corollary](./prob/prob-corollary-4.png)
+
+
+### Proofs
+
+![Proof](./prob/prob-proof-1.png)
+![Proof](./prob/prob-proof-2.png)
+![Proof](./prob/prob-proof-3.png)
+![Proof](./prob/prob-proof-4.png)
+![Proof](./prob/prob-proof-5.png)
+
+### Exercises
+
+![Exercises](./prob/prob-exercises-1.png)
+![Exercises](./prob/prob-exercises-2.png)
+![Exercises](./prob/prob-exercises-3.png)
+![Exercises](./prob/prob-exercises-4.png)
+![Exercises](./prob/prob-exercises-5.png)
+
+### Diagrams
+
+![Diagram](./prob/prob-diagram-1.png)
+![Diagram](./prob/prob-diagram-2.png)
+![Diagram](./prob/prob-diagram-3.png)
+![Diagram](./prob/prob-diagram-4.png)
+
+### Tables
+
+![Table](./prob/prob-table-1.png)
+![Table](./prob/prob-table-2.png)
+![Table](./prob/prob-table-3.png)
+![Table](./prob/prob-table-4.png)
+![Table](./prob/prob-table-5.png)
+
+### Footnotes
+
+![Footnotes](./prob/prob-footnotes-1.png)
+![Footnotes](./prob/prob-footnotes-2.png)
+![Footnotes](./prob/prob-footnotes-3.png)
+
+### Pattern Summary
+
+
+Based on textbook, I conclude, that these patterns are gonna be useful for later stages of parsing:
+1. On page, where new chapter starts, has page counter on the bottom of the page. On other pages page counter and title of current chapter located at the top of a page.
+2. If any diagrams present, the are located on top of the page.
+3. Definitions, examples, proofs and theorems, corollaries, if not followed by proofs, end with square.
+4. Each exercises section made out of numerical list.
+5. Footnotes located on the bottom of the page, which separated with text by long line.
+6. Each section header is large. Each subsection header is slightly smaller that section's header, but bigger that usual text.
+
+## Real and Complex Analysis
+
+[Textbook](../../test/rudin.pdf).
+
+## Set Theory and the Continuum Hypothesis
+
+[Textbook](../../test/conti.pdf).
+
+## A First Course in Probability
+
+[Textbook](../../test/a_first_course_in_probability.pdf)
