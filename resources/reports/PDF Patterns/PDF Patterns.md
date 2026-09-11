@@ -269,3 +269,11 @@ Based on textbook, I conclude, that these patterns are gonna be useful for later
 2. Each section is a blue-like or black large text.
 3. Propositions, proofs, examples, theorems written in bold, followed by regular text.
 4. On top of the each figure and table some text in bold is written ("Figure ..." or "Table ..." respectively).
+
+# Conclusion
+
+"Grinstead and Snell’s Introduction to Probability" and "Real and Complex Analysis" are similiar on way how they are showing page counter and chapter title. Each of those textbooks have clear structure built into them. 
+
+"A First Course in Probability" doesn't have clear structure like two other textbooks, like not having clear page indication, or living out space for next chapter header. Sometimes "Proposition X.X" is written after actual proposition statement was written. Tables can be separated by new page.
+
+Based on patterns, I choose "Real and Complex Analysis" as first text book, which I gonna parse.
