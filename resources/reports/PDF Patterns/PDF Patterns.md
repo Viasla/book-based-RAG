@@ -177,10 +177,95 @@ Based on textbook, I conclude, that these patterns are gonna be useful for later
     - Proof ends with "////".
 3. Book separated on segments which are numbered, section headers just separate them, and do not influence the counter. Only when a new chapther begins, counter resets.
 
-## Set Theory and the Continuum Hypothesis
-
-[Textbook](../../test/conti.pdf).
-
 ## A First Course in Probability
 
-[Textbook](../../test/a_first_course_in_probability.pdf)
+[Textbook](../../test/a_first_course_in_probability.pdf).
+
+### Chapters
+
+![Chapter](./first/first-chapter-1.png)
+![Chapter](./first/first-chapter-2.png)
+![Chapter](./first/first-chapter-3.png)
+![Chapter](./first/first-chapter-4.png)
+![Chapter](./first/first-chapter-5.png)
+
+### Sections
+
+![Section](./first/first-section-1.png)
+![Section](./first/first-section-2.png)
+![Section](./first/first-section-3.png)
+![Section](./first/first-section-4.png)
+![Section](./first/first-section-5.png)
+
+### Notation
+
+![Notation](./first/first-notation-1.png)
+![Notation](./first/first-notation-2.png)
+
+### Statements
+
+![Statement](./first/first-statement-1.png)
+![Statement](./first/first-statement-2.png)
+![Statement](./first/first-statement-3.png)
+
+### Proposition
+
+![Proposition](./first/first-proposition-1.png)
+![Proposition](./first/first-proposition-2.png)
+![Proposition](./first/first-proposition-3.png)
+![Proposition](./first/first-proposition-4.png)
+![Proposition](./first/first-proposition-5.png)
+
+### Theorems
+
+![Theorem](./first/first-theorem-1.png)
+![Theorem](./first/first-theorem-2.png)
+![Theorem](./first/first-theorem-3.png)
+
+### Proofs
+
+![Proof](./first/first-proof-1.png)
+![Proof](./first/first-proof-2.png)
+![Proof](./first/first-proof-3.png)
+![Proof](./first/first-proof-4.png)
+
+### Examples
+
+![Example](./first/first-example-1.png)
+![Example](./first/first-example-2.png)
+![Example](./first/first-example-3.png)
+![Example](./first/first-example-4.png)
+![Example](./first/first-example-5.png)
+
+![Example](./first/first-examples-1.png)
+
+### Solutions
+
+![Solution](./first/first-solution-1.png)
+![Solution](./first/first-solution-2.png)
+![Solution](./first/first-solution-3.png)
+![Solution](./first/first-solution-4.png)
+![Solution](./first/first-solution-5.png)
+
+### Figures
+
+![Figure](./first/first-figure-1.png)
+![Figure](./first/first-figure-2.png)
+![Figure](./first/first-figure-3.png)
+![Figure](./first/first-figure-4.png)
+
+### Exercises
+
+![Exercises](./first/first-exercises-1.png)
+![Exercises](./first/first-exercises-2.png)
+![Exercises](./first/first-exercises-3.png)
+![Exercises](./first/first-exercises-4.png)
+![Exercises](./first/first-exercises-5.png)
+
+### Pattern Summary
+
+Based on textbook, I conclude, that these patterns are gonna be useful for later stages of parsing:
+1. Each page have page counter on the bottom. 
+2. Each section is a blue-like or black large text.
+3. Propositions, proofs, examples, theorems written in bold, followed by regular text.
+4. On top of the each figure and table some text in bold is written ("Figure ..." or "Table ..." respectively).
