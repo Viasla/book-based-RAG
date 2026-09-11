@@ -196,6 +196,7 @@ Based on textbook, I conclude, that these patterns are gonna be useful for later
 ![Section](./first/first-section-3.png)
 ![Section](./first/first-section-4.png)
 ![Section](./first/first-section-5.png)
+![Section](./first/first-section-6.png)
 
 ### Notation
 
@@ -245,7 +246,6 @@ Based on textbook, I conclude, that these patterns are gonna be useful for later
 ![Solution](./first/first-solution-2.png)
 ![Solution](./first/first-solution-3.png)
 ![Solution](./first/first-solution-4.png)
-![Solution](./first/first-solution-5.png)
 
 ### Figures
 
