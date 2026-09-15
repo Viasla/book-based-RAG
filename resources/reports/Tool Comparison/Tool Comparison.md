@@ -18,7 +18,22 @@ In order to check tools performance, I chose sample pages (pdf file with selecte
 
 [Textbook](../../test/rudin.pdf).
 
-[Sample pages]().
+[Sample pages](./samples/rudin-samples.pdf).
+
+|Page|Reason|
+|:---|:-----|
+|8   |"CONTENTS", contents, "vii" (page counter)|
+|9   |"viii CONTENTS" (page counter), contents|
+|14  |"PREFACE", regular text (with inline LaTeX), "xiii" (page counter)|
+|15  |"xiv PREFACE" (page counter), regular text (with inline LaTeX)|
+|16  |"PROLOGUE", "THE EXPONENTIAL FUNCTION", formulas, Theorem (bold and italic text), "1" (page counter)|
+|19  |Problematic page, "4 REAL AND COMPLEX ANALYSIS" (page counter), formulas|
+|20  |"CHAPTER", "ONE", "ABSTRACT INTEGRATION", "5" (page counter)|
+|23  |"8 REAL AND COMPLEX ANALYSIS" (page counter), "The Concept of Measurability" (header), Definitions|
+|36  |"ABSTRACT INTEGRATION 21" (page counter), "1.26 Lebesgue's Monotone Convergence Theorem"|
+|46  |"ABSTRACT INTEGRATION 31" (page counter), Theorem, Exercises, smaller text|
+|51  |"36 REAL AND COMPLEX ANALYSIS", theorems and proofs, footnote|
+|78  |"$L^{p}$-SPACES 63", formulas|
 
 #### Docling
 
