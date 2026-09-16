@@ -10,6 +10,29 @@ In this report I gonna compare tools for data extraction from pdf textbooks.
 
 ### Scripts
 
+#### Page Selector
+
+In order to select sample pages I wrote script which does just selects pages without changing structure of page.
+
+##### Usage
+
+To select pages run following command from top-level directory of project:
+```bash
+python scr\pageselector.py <input_pdf> <output_pdf> <pages>  
+```
+
+For example:
+
+```bash
+python scr\pageselector.py resources\test\rudin.pdf "resources\reports\Tool Comparison\samples\rudin-samples.pdf" 8 9 14 15 16 19 20 23 36 46 51 78
+```
+
+#### Docling
+
+#### Marker
+
+#### PyMuPDF
+
 ## Books
 
 In order to check tools performance, I chose sample pages (pdf file with selected pages) which represent each problem with each textbook. Table contains page numbers I chose and what will I look for.
