@@ -6,8 +6,7 @@ from docling.document_converter import DocumentConverter
 def convert(source, destination):
     converter = DocumentConverter()
     result = converter.convert(source)
-    with open(destination, "w", encoding="utf-8") as f:
-        f.write(result.document.export_to_markdown())
+    result.document.save_as_markdown(destination)
 
 if __name__ == "__main__":
     input_file = sys.argv[1]
