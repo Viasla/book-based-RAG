@@ -14,12 +14,14 @@ In this report I gonna compare tools for data extraction from pdf textbooks.
 
 In order to select sample pages I wrote script which does just selects pages without changing structure of page.
 
-##### Usage
-
 To select pages run following command from top-level directory of project:
 ```bash
 python scr\pageselector.py <input_pdf> <output_pdf> <pages>  
 ```
+
+`<input_pdf>` - path to input .pdf file;
+`<output_pdf>` - path to output .pdf file;
+`<pages>` - page numbers which should be included in output file. numbers separated with spaces.
 
 For example:
 
@@ -29,10 +31,15 @@ python scr\pageselector.py resources\test\rudin.pdf "resources\reports\Tool Comp
 
 #### Docling
 
+Docling script is a script which converts pdf to markdown file using docling.
+
 To run docling script, run following command:
+```bash
+python docling-script.py <input_pdf> <output_pdf>
 ```
-python docling-script.py path/to/input/file path/to/output/file
-```
+
+`<input_pdf>` - path to input .pdf file;
+`<output_pdf>` - path to output .pdf file;
 
 #### Marker
 
