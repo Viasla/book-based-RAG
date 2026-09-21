@@ -183,3 +183,33 @@ Additionally, some text, especially page counters and chapter name, were not pre
 #### PyMuPDF
 
 [Parsing result]().
+
+### Grinstead and Snell’s Introduction to Probability
+
+[Textbook](../../test/prob.pdf).
+
+[Sample pages](./samples/prob-samples.pdf).
+
+|Page|Reason|
+|:---|:-----|
+|3   |"Contents", "v" (page counter)|
+|4   |"vi CONTENTS" (page counter), |
+|5   |"Preface", "vii" (page counter)|
+|6   |"viii PREFACE" (page counter), "FEATURES", "ACKNOWLEDGMENTS"|
+|9   |Chapter header, section header, inline math, formula, "1" (page counter)|
+|11  |(Problematic page), "1.1. SIMULATION OF DISCRETE PROBABILITIES 3"(page counter), table, formula|
+|33  |(Problematic page), "1.2. DISCRETE PROBABILITY DISTRIBUTIONS" (page counter) diagram, inline math, formula|
+|59  |(Problematic page), Table|
+|365 |Diagram, formula, inline math|
+
+#### Docling
+
+[Parsing result]().
+
+#### Marker
+
+[Parsing result]().
+
+#### PyMuPDF
+
+[Parsing result]().
