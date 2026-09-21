@@ -35,11 +35,14 @@ Docling script is a script which converts pdf to markdown file using docling.
 
 To run docling script, run following command:
 ```bash
-python docling-script.py <input_pdf> <output_pdf>
+python scr\docling-script.py <input_pdf> <output_pdf> [--method <METHOD>]
 ```
 
 `<input_pdf>` - path to input .pdf file;
 `<output_pdf>` - path to output .pdf file;
+`<METHOD>` - choose between `default` and `options`:
+- `default`: default configuration for docling package;
+- `options`: configuration which better for math texts.
 
 #### Marker
 
