@@ -80,17 +80,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("input", type=str, help="path to input file")
     parser.add_argument("output", type=str, help="path to output file")
-    parser.add_argument("--method", type=str, default="default", help="")
+    parser.add_argument("--method", choices=["default", "no_ocr", "default_ocr", "easy_ocr"], default="default", help="")
 
     args = parser.parse_args()
 
-    if args.method == "default":
-        convert_default(args.input, args.output)
-    elif args.method == "no_ocr":
-        convert_no_ocr(args.input, args.output)
-    elif args.method == "default_ocr":
-        convert_default_ocr(args.input, args.output)
-    elif args.method == "easy_ocr":
-        convert_easy_ocr(args.input, args.output)
-    else:
-        print(f"Unknown method: {args.method}")
+    convert_table = {
+        "default": convert_default,
+        "no_ocr": convert_no_ocr,
+        "default_ocr": convert_default_ocr,
+        "easy_ocr": convert_easy_ocr
+    }
+
+    convert_table[args.method](args.input, args.output)
