@@ -94,7 +94,7 @@ What each abbriviation means:
 |51  |"36 REAL AND COMPLEX ANALYSIS", theorems and proofs, footnote|
 |78  |"$L^{p}$-SPACES 63", formulas|
 
-#### Docling - default configuration
+#### Docling - default configuration (RapidOCR)
 
 [Parsing result](./outputs/rudin-samples.md).
 
