@@ -183,6 +183,46 @@ Sometimes, entire line in page were extracted incorrectly as in lines 87, 93, 13
 
 Additionally, some text, especially page counters and chapter name, were not present in output.
 
+#### Docling - default configuration (EasyOCR)
+
+[Parsing result](./outputs/rudin-samples-default(easyocr).md)
+
+##### Comparison
+
+##### Conclusion
+
+#### Docling - default OCR engine configuration (RapidOCR)
+
+[Parsing result](./outputs/rudin-samples-default_ocr(rapidocr).md)
+
+##### Comparison
+
+##### Conclusion
+
+#### Docling - default OCR engine configuration (EasyOCR)
+
+[Parsing result](./outputs/rudin-samples-default_ocr(easyocr).md)
+
+##### Comparison
+
+##### Conclusion
+
+#### Docling - no OCR engine
+
+[Parsing result](./outputs/rudin-samples-no_ocr.md)
+
+##### Comparison
+
+##### Conclusion
+
+#### Docling - EasyOCR configuration
+
+[Parsing result](./outputs/rudin-samples-easy_ocr.md)
+
+##### Comparison
+
+##### Conclusion
+
 #### Marker
 
 [Parsing result]().
