@@ -189,7 +189,47 @@ Additionally, some text, especially page counters and chapter name, were not pre
 
 ##### Comparison
 
+NOTE(1): "CONTENTS" was given `##`.
+
+DEN(5): Table misses "1" opposite to "Prologue: The Exponential Function".
+
+DEN(11): "[0, 00]" _instead of_ "$[0, \infty]$".
+
+DEN(24, 26, 52): "LP" _instead of_ "$L^{p}$".
+
+NOTE(32): "viii CONTENTS" was given `##`.
+
+DEN(44, 72): "LI" _instead of_ "$L^{1}$".
+
+DEN(45): "Bana.eh" _instead of_ "Banach".
+
+DEN(77): This paragraph missing punctuation marks in "... are strongly emphasized  The tranditionally ..." (_instead of_ "... are strongly emphasized. The tranditionally ..."), and "... subjects of real analysis and complex analysis are thus ..." (_instead of_ "... subjects of "real analysis" and "complex analysis" are thus ...").
+
+DEN(~78): Entire paragraph is missing (it's located on line 81, in different order which presented in sample pages) 
+
+DEN(79): Different characters: "... in the arrangement; and ..." _instead of_ "... in the arrangement, and ..." and "... of every item: References ..." _instead of_ "... of every item. References ...". Missing punctuation marks in "... Notes and Comments They ..." (_instead of_ "... Notes and Comments. They ...").
+
+DEN(81): Missing punctuation marks: "... exploited  The Riesz ..." _instead of_ "... exploited. The Riesz ...", "... allow one to guess the ..." _instead of_ "... allow one to "guess" the ...". "Miintz-Szasz" _instead of_ "Müntz-Szasz". "approximation on an interval. THe fact that $L^{2}$ is a Hilbert space" missing. Word "Paley" at the end of paragraph
+
+DEN(83): Problems:
+1. ";" _instead of_ ",";
+2. ":" _instead of_ ".";
+3. word "good" in "... this book is a good course ..." were moved to other place, after end of sample pages paragraph;
+4. "book Principles of Mathematical Analysis furnish" _instead of_ "book "Principles of Mathematical Analysis" furnish";
+5. next paragraph is not separated with new lines;
+6. "$" _instead of_ "5";
+7. word "they" in "... in which they presented, ..." was moved to the end of sample pages paragraph;
+8. next paragraph is not separated with new lines;
+9. two paragraphs are swapped in order;
+10. "large parts" was moved to end of sample pages paragraph;
+11. "important is that it familiarizes stu-" is missing;
+12. "continuity and" is missing;
+
+DEN(~83): Missing "xiii" and "xiv PREFACE"
+
 ##### Conclusion
+
+Since this output doesn't any formula and text order, sometimes moves words to end of a paragraphs, I decided to not continue with comparison.
 
 #### Docling - default OCR engine configuration (RapidOCR)
 
