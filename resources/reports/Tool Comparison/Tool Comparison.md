@@ -96,7 +96,7 @@ What each abbriviation means:
 
 #### Docling - default configuration (RapidOCR)
 
-[Parsing result](./outputs/rudin-samples.md).
+[Parsing result](./outputs/rudin-samples-default(rapidocr).md).
 
 ##### Comparison
 
