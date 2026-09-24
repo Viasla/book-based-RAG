@@ -40,9 +40,13 @@ python scr\docling-script.py <input_pdf> <output_pdf> [--method <METHOD>]
 
 `<input_pdf>` - path to input .pdf file;
 `<output_pdf>` - path to output .pdf file;
-`<METHOD>` - choose between `default` and `options`:
-- `default`: default configuration for docling package;
-- `options`: configuration which better for math texts.
+`<METHOD>` - one of:
+- `default` - default configuration for docling package;
+- `no_ocr` - configuration which better for math texts without using ocr;
+- `default_ocr` - configuration which uses default ocr settings;
+- `easy_ocr` - configuration which uses specifically EasyOCR engine.
+
+By default, if no ocr engine present, docling uses RapidOCR.
 
 #### Marker
 
@@ -90,7 +94,7 @@ What each abbriviation means:
 |51  |"36 REAL AND COMPLEX ANALYSIS", theorems and proofs, footnote|
 |78  |"$L^{p}$-SPACES 63", formulas|
 
-#### Docling
+#### Docling - default configuration
 
 [Parsing result](./outputs/rudin-samples.md).
 
