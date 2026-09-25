@@ -2,3 +2,7 @@ pypdf
 
 docling
 easyocr
+
+torch
+torchvision
+marker-pdf
