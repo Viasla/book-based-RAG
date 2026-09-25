@@ -245,6 +245,72 @@ Since this output doesn't any formula and text order, sometimes moves words to e
 
 ##### Comparison
 
+NOTE: This output is not different from default configuration of docling script output up to 91 line.
+
+ACC(91): Formula generated correctly.
+
+DEN(95): comma is present in place where it is intended to be.
+
+ACC(99): Formula generated correctly.
+
+ACC(114): Formula generated correctly.
+
+ACC(124): Formula generated correctly.
+
+ACC(128): Formula generated correctly.
+
+DEN(158): Formula could not be generated because it inserts "&" before "=".
+
+DEN(170): ![Problem](./docling/rudin-3.png)
+
+was interpreted as "f f".
+
+DEN(174): swapped what was in DEN(170) with "constant; 0 ...".
+
+DEN(174): Formula interpreted incorrectly.
+
+DEN(178): comma in place where it is not suppose to be.
+
+DEN(180): "SO (1) implies" before "By Theorem 1.14, ...".
+
+DEN(182): I can't find where lim is present in sample pages.
+
+DEN(186): "constant, $0 < c < 1$, and define" is not present.
+
+DEN(188): "{" and "}" are not present, double commas.
+
+DEN(192): "Each $E_n$ is ... To see this" is not present.
+
+DEN(196): commas inside formulas, double commas.
+
+DEN(202): commas are present.
+
+ACC(210): Formula generated correctly.
+
+ACC(216): Formula generated correctly. 
+
+DEN(229): Formula is not rendering.
+
+DEN(231): Formula is not rendering.
+
+DEN(237): missing "$n \rightarrow \infty$".
+
+ACC(254): Formula generated correctly.
+
+DEN(256): Incorrectly interpreted regular paragraph with inline math as formula.
+
+ACC(268): Formula generated correctly.
+
+ACC(272): Formula generated correctly.
+
+DEN(287): Formula doesn't render.
+
+ACC(291): Formula generated correctly.
+
+DEN(295): Formula doens't render.
+
+DEN(301): commas are present.
+
 ##### Conclusion
 
 #### Docling - no OCR engine
